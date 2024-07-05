@@ -3,7 +3,7 @@
 1. 강의 내용 필기 정리
 2. 강의 과제 jupyter notebook
 
-[ 목차 ]
+#[ 목차 ]
 ## 1. Neural Networks and Deep Learning
 1. Introduction to deep learning
 2. Neural Networks Basics
